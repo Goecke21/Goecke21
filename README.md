@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am a student at The Ohio State University.
+Currently, I only have one semester left for my Bachelor of Science in Mechanical Engineering.
+While I have done a bit of coding, I'm still learning how to optimize GitHub and clean up my projects.
+Hopefully, I make it back here to update this and don't forget
 <!--
 **Goecke21/Goecke21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
